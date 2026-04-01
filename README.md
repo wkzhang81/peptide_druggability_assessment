@@ -17,7 +17,8 @@ python3 batch.py
 - Overall = (solubility * 0.3) + (permeability * 0.3) + (stability * 0.4)
 
 ### Requirements
-- numpy>=1.21.0
-- pandas>=1.3.0
-- matplotlib>=3.4.0
-- seaborn>=0.11.0
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- rdkit
